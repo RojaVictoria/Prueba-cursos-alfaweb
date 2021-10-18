@@ -34,9 +34,6 @@ const routes = [
     path: "/register",
     name: "Register",
     component: Register,
-    meta: {
-      login: true
-    }
   },
   {
     path: "/admin",
